@@ -53,8 +53,8 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'APPUiO'?></h1>
-        <p class="lead">APPUiO Example Source To Image PHP</p>
+        <h1>Hallo <?php echo 'APPUiO'?> on Azure</h1>
+        <p class="lead">APPUiO Example Source To Image PHP on Azure Cloud</p>
       </div>
 
     </div><!-- /.container -->
