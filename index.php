@@ -53,7 +53,7 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'APPUiO'?> by VSHN</h1>
+        <h1>Hallo <?php echo 'APPUiO'?></h1>
         <p class="lead">APPUiO Example Source To Image PHP</p>
         <p>The name of this pod is <?php echo gethostname(); ?> </p>
       </div>
