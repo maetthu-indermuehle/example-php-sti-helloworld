@@ -53,8 +53,9 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'APPUiO'?> on Azure</h1>
-        <p class="lead">APPUiO Example Source To Image PHP on Azure Cloud</p>
+        <h1>Hallo <?php echo 'APPUiO'?></h1>
+        <p class="lead">APPUiO Example Source To Image PHP</p>
+        <p>The name of this pod is <?php echo gethostname(); ?> </p>
       </div>
 
     </div><!-- /.container -->
